@@ -39,7 +39,7 @@ ext.versions = [
         circleImageView              : '2.2.0',
         inputMask                    : '2.3.0',
 
-        googleServices               : '15.0.0',
+        googleServices               : '15.0.1',
         googleMapUtils               : '0.4.4',
         vpIndicator                  : '1.5.0',
         alerter                      : '2.0.5',
