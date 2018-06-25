@@ -107,6 +107,7 @@ ext.libraries = [
         googlePlaces            : "com.google.android.gms:play-services-places:$versions.googleServices",
         googleLocation          : "com.google.android.gms:play-services-location:$versions.googleServices",
         googleMapUtils          : "com.google.maps.android:android-maps-utils:$versions.googleMapUtils",
+        messaging               : "com.google.firebase:firebase-messaging:$versions.googleServices",
 
         expandableRecyclerView  : "com.thoughtbot:expandablerecyclerview:$versions.expandableRecyclerView",
         vpIndicator             : "com.github.hackware1993:MagicIndicator:$versions.vpIndicator",
