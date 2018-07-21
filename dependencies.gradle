@@ -52,6 +52,7 @@ ext.versions = [
         expandableRecyclerView       : '1.3',
         hockeyApp                    : '5.1.0',
         debugDb                      : '1.0.3',
+        chuck                        : '1.1.0',
 ]
 ext.libraries = [
         supportAppCompat        : "com.android.support:appcompat-v7:$versions.supportLibs",
@@ -128,6 +129,7 @@ ext.libraries = [
         leakCanaryNoOp          : "com.squareup.leakcanary:leakcanary-android-no-op:$versions.leakCanary",
         hockeyApp               : "net.hockeyapp.android:HockeySDK:$versions.hockeyApp",
         debugDb                 : "com.amitshekhar.android:debug-db:$versions.debugDb",
+        chuck                   : "com.readystatesoftware.chuck:library:$versions.chuck",
 
         // Test dependencies
         junit                   : "junit:junit:$versions.junit",
